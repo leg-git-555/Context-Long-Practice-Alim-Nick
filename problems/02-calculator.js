@@ -21,7 +21,7 @@ class Calculator{
 
 	multiply(num) {
 		this.total *= num
-		return this.total 
+		return this.total
 	}
 
 }
